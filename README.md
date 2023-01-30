@@ -28,7 +28,8 @@
 <p align="justify"> In some environment, lazypredict is not working by causing 'No module found' error when you run the code in jupyter notebook. In that case, the code must be run in '.py' file and run in terminal. </p>
 
 ## DATA SOURCE
-https://www.kaggle.com/code/lironb/heart-attack-analysis-prediction
+Classification: https://www.kaggle.com/code/lironb/heart-attack-analysis-prediction
+Regression: https://www.kaggle.com/datasets/muthuj7/weather-dataset
 
 ## CODE BASE
 https://lazypredict.readthedocs.io/en/latest/usage.html
