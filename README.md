@@ -2,11 +2,11 @@
 <p align="justify"> This repo provide comprehensive solution for searching best suit model for regression and classification using a utility python package called 'lazypredict'. This package produces training result of multiple models so that easy to compare and choose a suit model on givne dataset. Additionally, here I added data visualization to help getting insight of input data. </p>
 
 ## RESULT of MODEL TRAINING
-* Classification
+* Classification </br>
 ![picture](screenshots/model_train_result_cls.png) </br>
 </br>
 
-* Regression
+* Regression </br>
 ![picture](screenshots/model_train_result_reg.png) </br>
 </br>
 
@@ -28,7 +28,7 @@
 <p align="justify"> In some environment, lazypredict is not working by causing 'No module found' error when you run the code in jupyter notebook. In that case, the code must be run in '.py' file and run in terminal. </p>
 
 ## DATA SOURCE
-Classification: https://www.kaggle.com/code/lironb/heart-attack-analysis-prediction
+Classification: https://www.kaggle.com/code/lironb/heart-attack-analysis-prediction  </br>
 Regression: https://www.kaggle.com/datasets/muthuj7/weather-dataset
 
 ## CODE BASE
