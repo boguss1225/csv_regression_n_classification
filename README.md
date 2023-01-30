@@ -11,7 +11,17 @@
 </br>
 
 ## DATA VISUALISATION
+![picture](screenshots/age.png) </br>
+</br>
 
+![picture](screenshots/boxplot.png) </br>
+</br>
+
+![picture](screenshots/corr.png) </br>
+</br>
+
+![picture](screenshots/pair_plot.png) </br>
+</br>
 
 ## DEPENDENCY
 * python==3.6
