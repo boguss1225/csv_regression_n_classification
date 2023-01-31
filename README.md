@@ -11,6 +11,7 @@
 </br>
 
 ## DATA VISUALISATION
+(Based on the heart attack dataset) </br>
 ![picture](screenshots/age.png) </br>
 </br>
 
@@ -33,9 +34,6 @@
 * scikit-learn==0.23.1
 * scipy==1.5.4
 * seaborn==0.11.2
-
-## ISSUE
-<p align="justify"> In some environment, lazypredict is not working by causing 'No module found' error when you run the code in jupyter notebook. In that case, the code must be run in '.py' file and run in terminal. </p>
 
 ## DATA SOURCE
 Classification: https://www.kaggle.com/code/lironb/heart-attack-analysis-prediction  </br>
